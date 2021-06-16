@@ -1,4 +1,4 @@
-anushkadar.github.com
+anushkadar.github.io
 =====================
 
 my portfolio
